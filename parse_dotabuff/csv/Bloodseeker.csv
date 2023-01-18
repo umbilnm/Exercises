@@ -1,0 +1,20 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;36,93%;50,82%;3,1;540;667
+Jungle;23,12%;51,31%;2,71;487;557
+Off Lane;20,53%;51,75%;2,59;465;598
+Mid Lane;17,09%;55,65%;3,29;542;668
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;112,300;54,845;48.84%
+Black King Bar;111,927;58,024;51.84%
+Aghanim's Shard;67,784;38,695;57.09%
+Wraith Band;61,162;27,821;45.49%
+Maelstrom;55,367;21,338;38.54%
+Skull Basher;54,185;26,567;49.03%
+Blade Mail;44,345;21,655;48.83%
+Abyssal Blade;41,436;26,288;63.44%
+Magic Wand;39,164;18,066;46.13%
+Mjollnir;35,438;22,052;62.23%
+Quelling Blade;35,273;15,258;43.26%
+Sange and Yasha;27,266;15,338;56.25%

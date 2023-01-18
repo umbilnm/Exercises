@@ -1,0 +1,19 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;58,45%;53,36%;4,46;497;638
+Off Lane;27,76%;53,73%;3,47;393;541
+Safe Lane;11,86%;51,52%;3,14;372;516
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Scepter;398,997;223,683;56.06%
+Aghanim's Shard;371,951;201,829;54.26%
+Null Talisman;241,163;113,511;47.07%
+Aether Lens;214,875;90,927;42.32%
+Arcane Boots;212,360;99,038;46.64%
+Octarine Core;192,487;126,694;65.82%
+Bottle;182,700;87,275;47.77%
+Refresher Orb;161,907;105,342;65.06%
+Ethereal Blade;152,683;87,186;57.10%
+Kaya;126,974;58,621;46.17%
+Boots of Speed;126,896;51,701;40.74%
+Boots of Travel;123,457;81,753;66.22%

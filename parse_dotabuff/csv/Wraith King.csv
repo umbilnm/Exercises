@@ -1,0 +1,19 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;63,81%;53,69%;3,8;557;659
+Off Lane;21,87%;52,46%;2,86;475;604
+Jungle;11,63%;51,13%;3,28;500;583
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;182,465;93,264;51.11%
+Desolator;126,612;69,583;54.96%
+Black King Bar;118,646;65,558;55.26%
+Aghanim's Shard;117,487;69,009;58.74%
+Blink Dagger;114,815;60,465;52.66%
+Armlet of Mordiggian;107,886;54,487;50.50%
+Assault Cuirass;82,375;57,398;69.68%
+Quelling Blade;68,219;28,960;42.45%
+Bracer;60,569;27,267;45.02%
+Magic Wand;59,881;27,603;46.10%
+Radiance;59,058;36,340;61.53%
+Aghanim's Scepter;45,609;29,559;64.81%

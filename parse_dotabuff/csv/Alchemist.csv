@@ -1,0 +1,20 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;44,71%;51,70%;3,02;776;686
+Safe Lane;33,42%;46,34%;2,64;724;660
+Off Lane;13,26%;44,60%;2,04;596;593
+Jungle;6,86%;41,90%;1,84;647;560
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Radiance;59,079;29,388;49.74%
+Black King Bar;50,720;25,036;49.36%
+Assault Cuirass;38,868;23,911;61.52%
+Boots of Travel;34,070;17,960;52.71%
+Abyssal Blade;28,165;17,483;62.07%
+Soul Ring;28,031;11,449;40.84%
+Blink Dagger;26,911;11,720;43.55%
+Phase Boots;22,129;10,017;45.27%
+Aghanim's Shard;19,213;11,669;60.73%
+Quelling Blade;18,094;6,207;34.30%
+Silver Edge;16,090;7,871;48.92%
+Power Treads;13,538;5,657;41.79%

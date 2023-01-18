@@ -1,0 +1,20 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;49,76%;48,15%;2,59;372;536
+Safe Lane;29,97%;44,61%;2,21;330;508
+Jungle;11,54%;40,79%;2,45;388;462
+Mid Lane;7,03%;48,53%;3,31;457;637
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Hurricane Pike;89,087;45,571;51.15%
+Power Treads;80,408;37,119;46.16%
+Null Talisman;37,396;17,457;46.68%
+Magic Wand;37,030;16,782;45.32%
+Aghanim's Scepter;30,297;17,062;56.32%
+Witch Blade;23,314;12,451;53.41%
+Black King Bar;19,049;10,064;52.83%
+Dragon Lance;18,985;6,744;35.52%
+Grove Bow;18,910;9,097;48.11%
+Dust of Appearance;17,691;7,254;41.00%
+Observer and Sentry Wards;17,292;5,572;32.22%
+Aghanim's Shard;16,717;9,065;54.23%

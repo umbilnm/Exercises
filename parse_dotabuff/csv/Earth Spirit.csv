@@ -1,0 +1,20 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;50,39%;47,88%;2,34;322;486
+Safe Lane;18,72%;44,35%;2,1;303;425
+Mid Lane;14,16%;48,46%;2,67;362;481
+Roaming;13,37%;46,03%;2,3;307;444
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Spirit Vessel;42,305;22,120;52.29%
+Magic Wand;36,622;17,595;48.04%
+Aghanim's Shard;34,528;19,911;57.67%
+Tranquil Boots;33,919;15,852;46.73%
+Dust of Appearance;25,535;11,502;45.04%
+Black King Bar;25,224;14,498;57.48%
+Boots of Speed;24,352;10,799;44.35%
+Urn of Shadows;22,906;9,332;40.74%
+Eul's Scepter of Divinity;15,720;8,488;53.99%
+Smoke of Deceit;15,369;7,676;49.94%
+Aghanim's Scepter;13,636;8,330;61.09%
+Observer and Sentry Wards;13,490;5,043;37.38%

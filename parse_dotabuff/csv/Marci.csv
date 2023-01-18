@@ -1,0 +1,20 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;56,06%;49,81%;2,42;363;550
+Safe Lane;29,85%;48,29%;2,22;337;523
+Mid Lane;8,01%;53,99%;3,31;479;673
+Roaming;5,36%;49,30%;2,33;317;503
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;120,619;58,918;48.85%
+Black King Bar;115,707;63,554;54.93%
+Skull Basher;81,885;44,060;53.81%
+Magic Wand;67,834;31,238;46.05%
+Orb of Corrosion;37,944;18,535;48.85%
+Dust of Appearance;36,564;15,827;43.29%
+Blink Dagger;31,393;18,547;59.08%
+Bracer;29,726;13,541;45.55%
+Orb of Venom;26,846;11,317;42.16%
+Quelling Blade;23,319;9,882;42.38%
+Daedalus;20,311;13,702;67.46%
+Abyssal Blade;19,692;13,026;66.15%

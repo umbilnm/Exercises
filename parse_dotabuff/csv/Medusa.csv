@@ -1,0 +1,19 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;63,15%;49,89%;3,78;611;693
+Mid Lane;28,37%;51,20%;3,68;591;699
+Off Lane;6,63%;47,87%;2,67;491;578
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;107,155;51,108;47.70%
+Manta Style;96,632;50,545;52.31%
+Eye of Skadi;92,961;54,981;59.14%
+Wraith Band;71,593;28,083;39.23%
+Aghanim's Shard;64,121;36,299;56.61%
+Aghanim's Scepter;50,904;29,126;57.22%
+Daedalus;45,354;28,665;63.20%
+Dragon Lance;44,584;19,456;43.64%
+Hurricane Pike;37,694;21,739;57.67%
+Butterfly;30,068;20,259;67.38%
+Magic Wand;24,642;10,167;41.26%
+Maelstrom;21,595;7,241;33.53%

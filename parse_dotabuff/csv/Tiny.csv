@@ -1,0 +1,19 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;39,62%;46,95%;2,51;422;573
+Safe Lane;31,81%;48,98%;2,99;537;659
+Mid Lane;24,38%;48,98%;3,31;518;666
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;258,818;124,046;47.93%
+Echo Sabre;189,613;93,568;49.35%
+Aghanim's Shard;186,054;100,765;54.16%
+Power Treads;145,672;68,646;47.12%
+Aghanim's Scepter;127,383;70,602;55.42%
+Black King Bar;103,314;55,425;53.65%
+Magic Wand;92,229;41,619;45.13%
+Daedalus;90,734;56,092;61.82%
+Silver Edge;68,741;37,791;54.98%
+Bottle;59,376;28,832;48.56%
+Phase Boots;55,456;26,372;47.55%
+Quelling Blade;53,517;21,606;40.37%

@@ -1,0 +1,19 @@
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;49,22%;52,13%;3,34;580;720
+Mid Lane;34,40%;54,52%;3,44;562;722
+Off Lane;15,33%;48,21%;2,41;453;560
+
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Gleipnir;348,699;194,467;55.77%
+Daedalus;300,665;192,142;63.91%
+Aghanim's Shard;221,783;140,172;63.20%
+Power Treads;219,105;115,999;52.94%
+Black King Bar;130,086;78,077;60.02%
+Falcon Blade;127,592;63,123;49.47%
+Wraith Band;96,587;45,615;47.23%
+Scythe of Vyse;85,042;60,077;70.64%
+Desolator;76,892;49,044;63.78%
+Boots of Speed;74,871;33,682;44.99%
+Dragon Lance;68,372;37,396;54.69%
+Crystalys;61,987;19,615;31.64%
